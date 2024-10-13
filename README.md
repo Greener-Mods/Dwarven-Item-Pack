@@ -1,5 +1,4 @@
 # Dwarven-Item-Pack
-Dwarven Item Pack
 
 **Spiked Plate Mail**
 
