@@ -124,7 +124,7 @@ Equipped abilities:
 
 Weight: 4
 
-**Steadfast +2 **
+**Steadfast +2**
 
 Made from dwarven darksteel, this small shield displays the image of a stout dwarven warrior, his face glaring resolutely at whatever foe the bearer faces.   
 
