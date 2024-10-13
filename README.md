@@ -128,7 +128,11 @@ Weight: 4
 
 Steadfast +2 
 
-Made from dwarven darksteel, this small shield displays the image of a stout dwarven warrior, his face glaring resolutely at whatever foe the bearer faces.   STATISTICS:  Equipped abilities:
+Made from dwarven darksteel, this small shield displays the image of a stout dwarven warrior, his face glaring resolutely at whatever foe the bearer faces.   
+
+STATISTICS:  
+
+Equipped abilities:
 - Armor Class: +3
 - No protection against missile
 - Hit Points: +10 (dwarves), +5 (others)
