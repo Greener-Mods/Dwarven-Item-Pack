@@ -60,7 +60,7 @@ Combat abilities:
 - Chance per hit that the wielder will go berserk
 - Returns to the wielder's hand when thrown
 
-- THAC0: +1
+THAC0: +1
 - Damage: 1d6+2
 - Damage type (melee): Slashing
 - Damage type (thrown): Missile
