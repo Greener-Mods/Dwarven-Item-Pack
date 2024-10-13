@@ -1,7 +1,7 @@
 # Dwarven-Item-Pack
 Dwarven Item Pack
 
-Spiked Plate Mail
+**Spiked Plate Mail**
 
 Favoured by dwarven berserkers known as battleragers, this plate mail armor is covered in heavy metal spikes. As a result, any opponent that successfully hits the wearer suffers immediate retribution. Due to its stout size, this armour can only be worn by dwarves.
 
@@ -16,7 +16,7 @@ Requires: 15 Strength
 
 Weight: 50
 
-Dwarven Plate Mail
+**Dwarven Plate Mail**
 
 Forged from black iron, Dwarven plate mail is both heavy and cumbersome by elven or human standards, but affords greater protection compared to most ordinary plate mail. Due to its stout size, this armour can only be worn by dwarves.
 
@@ -32,7 +32,7 @@ Requires: 15 Strength
 
 Weight: 50
 
-Dwarven Waraxe
+**Dwarven Waraxe**
 
 The dwarven waraxe is a single-bladed axe larger and heavier than a battle axe. Much like the dwarves themselves; a dwarven waraxe is strong, hardy and brutal. This axe has a large, ornate head mounted to a thick handle, making it difficult to use in one hand without special training.
 
@@ -47,7 +47,7 @@ Requires: 14 Strength
 
 Weight: 8
 
-Berserker Axe +1
+**Berserker Axe +1**
 
 Favoured by dwarven berserkers, known as battleragers, this common tool has been turned into a vicious, and highly effective weapon. The hand axe combines speed of handling with the balance required for accurate throwing over short ranges. All who wield this enchanted axe, risk being overcome with rage during battle, attacking friend and foe alike.
 
@@ -71,7 +71,7 @@ Requires: 4 Strength
 
 Weight: 2
 
-Belt of Dwarvenkind
+**Belt of Dwarvenkind**
 
 Belts of dwarvenkind are thick leather belts that were often presented as a gift to those who have done a great deed for a dwarvish community. These belts bestowed dwarf-like qualities upon whomever equipped them, so that they were capable of enduring difficult conditions. 
 
@@ -86,7 +86,7 @@ Equipped abilities:
 
 Weight: 2
 
-Dwarven Gutshaker
+**Dwarven Gutshaker**
 
 Dwarven gutshaker is a vile concoction of fermented goat's milk and herbs that only the toughest dwarves and foolhardiest non-dwarves would ever attempt to drink. However, if the drinker survived it, they were granted immunity to fatigue for some time. It was described as the "most foul-tasting concoction ever brewed."
 
@@ -96,7 +96,7 @@ STATISTICS:
 
 Weight: 1
 
-Korgan's Waraxe
+**Korgan's Waraxe**
 
 The dwarven waraxe is a single-bladed axe larger and heavier than a battle axe. In the hands of a Korgan, this axe can deliver devastating critical hits.
 
@@ -114,7 +114,7 @@ STATISTICS:
 
 Weight: 8
 
-Lucky Boots
+**Lucky Boots**
 
 These exquisite leather boots were crafted from the pelt of a cave bear and enchanted by the half-elven cleric/mage Telegram.
 
@@ -125,7 +125,7 @@ Equipped abilities:
 
 Weight: 4
 
-Steadfast +2 
+**Steadfast +2 **
 
 Made from dwarven darksteel, this small shield displays the image of a stout dwarven warrior, his face glaring resolutely at whatever foe the bearer faces.   
 
