@@ -7,8 +7,8 @@ Favoured by dwarven berserkers known as battleragers, this plate mail armor is c
 
 STATISTICS:
 
-Equipped abilities: 
-– Any opponent within 6-ft. that successfully hits the wearer suffers 1d4 points of piercing damage.
+Equipped abilities:
+- Any opponent within 6-ft. that successfully hits the wearer suffers 1d4 points of piercing damage.
 
 Armor Class: 1 (-2 vs. slashing)
 
