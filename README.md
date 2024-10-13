@@ -22,7 +22,7 @@ Forged from black iron, Dwarven plate mail is both heavy and cumbersome by elven
 
 STATISTICS:
 
-Equipped abilities: 
+Equipped abilities:
 - Physical Damage Resistance: +10%
 - Protects against critical hits
 
@@ -54,11 +54,11 @@ Favoured by dwarven berserkers, known as battleragers, this common tool has been
 STATISTICS:
 
 Equipped abilities:
-– Constitution: +1
+- Constitution: +1
 
 Combat abilities:
-– Chance per hit that the wielder will go berserk
-– Returns to the wielder's hand when thrown
+- Chance per hit that the wielder will go berserk
+- Returns to the wielder's hand when thrown
 
 THAC0: +1
 Damage: 1d6+2
@@ -123,7 +123,7 @@ These exquisite leather boots were crafted from the pelt of a cave bear and ench
 STATISTICS:
 
 Equipped abilities:
-– Saving Throws: +3 (dwarves), +1 (others)
+- Saving Throws: +3 (dwarves), +1 (others)
 
 Weight: 4
 
