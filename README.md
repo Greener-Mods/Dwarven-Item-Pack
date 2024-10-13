@@ -92,7 +92,7 @@ Dwarven gutshaker is a vile concoction of fermented goat's milk and herbs that o
 
 STATISTICS:
 
-Special: Removes the effects of rage associated fatigue
+- Special: Removes the effects of rage associated fatigue
 
 Weight: 1
 
@@ -105,13 +105,12 @@ Combat abilities:
 
 STATISTICS:
 
-THAC0: +1
-Damage: 1d10+1 (slashing)
-Speed Factor: 4
-Proficiency Type: Axe
-Type: One-handed
-Requires:
- 14 Strength
+- THAC0: +1
+- Damage: 1d10+1 (slashing)
+- Speed Factor: 4
+- Proficiency Type: Axe
+- Type: One-handed
+- Requires: 14 Strength
 
 Weight: 8
 
