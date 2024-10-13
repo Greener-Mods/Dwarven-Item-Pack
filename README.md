@@ -51,8 +51,6 @@ Berserker Axe +1
 
 Favoured by dwarven berserkers, known as battleragers, this common tool has been turned into a vicious, and highly effective weapon. The hand axe combines speed of handling with the balance required for accurate throwing over short ranges. All who wield this enchanted axe, risk being overcome with rage during battle, attacking friend and foe alike.
 
-STATISTICS:
-
 Equipped abilities:
 - Constitution: +1
 
@@ -60,13 +58,14 @@ Combat abilities:
 - Chance per hit that the wielder will go berserk
 - Returns to the wielder's hand when thrown
 
-THAC0: +1
-Damage: 1d6+2
-Damage type (melee): Slashing
-Damage type (thrown): Missile
-Speed Factor: 2
-Proficiency Type: Axe
-Type: One-handed
+STATISTICS:
+- THAC0: +1
+- Damage: 1d6+2
+- Damage type (melee): Slashing
+- Damage type (thrown): Missile
+- Speed Factor: 2
+- Proficiency Type: Axe
+- Type: One-handed
 
 Requires: 4 Strength
 
@@ -101,10 +100,10 @@ Korgan's Waraxe
 
 The dwarven waraxe is a single-bladed axe larger and heavier than a battle axe. In the hands of a Korgan, this axe can deliver devastating critical hits.
 
-STATISTICS:
-
 Combat abilities:
 - While enraged, the chance to score a critical hit is increased by 10%
+
+STATISTICS:
 
 THAC0: +1
 Damage: 1d10+1 (slashing)
