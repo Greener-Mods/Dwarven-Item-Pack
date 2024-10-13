@@ -37,11 +37,12 @@ Dwarven Waraxe
 The dwarven waraxe is a single-bladed axe larger and heavier than a battle axe. Much like the dwarves themselves; a dwarven waraxe is strong, hardy and brutal. This axe has a large, ornate head mounted to a thick handle, making it difficult to use in one hand without special training.
 
 STATISTICS:
-THAC0: 0 (dwarves), -2 (others)
-Damage: 1d10 (slashing) 
-Speed Factor: 5 
-Proficiency Type: Axe 
-Type: One-handed 
+- THAC0: 0 (dwarves), -2 (others)
+- Damage: 1d10 (slashing)
+- Speed Factor: 5
+- Proficiency Type: Axe
+- Type: One-handed
+
 Requires: 14 Strength
 
 Weight: 8
@@ -59,15 +60,15 @@ Combat abilities:
 - Chance per hit that the wielder will go berserk
 - Returns to the wielder's hand when thrown
 
-THAC0: +1
-Damage: 1d6+2
-Damage type (melee): Slashing
-Damage type (thrown): Missile
-Speed Factor: 2
-Proficiency Type: Axe
-Type: One-handed
-Requires:
- 4 Strength
+- THAC0: +1
+- Damage: 1d6+2
+- Damage type (melee): Slashing
+- Damage type (thrown): Missile
+- Speed Factor: 2
+- Proficiency Type: Axe
+- Type: One-handed
+
+Requires: 4 Strength
 
 Weight: 2
 
