@@ -27,8 +27,8 @@ Equipped abilities:
 - Protects against critical hits
 
 Armor Class: 1 (-2 vs. slashing)
-Requires:
- 15 Strength
+
+Requires: 15 Strength
 
 Weight: 50
 
@@ -43,8 +43,7 @@ Damage: 1d10 (slashing)
 Speed Factor: 5
 Proficiency Type: Axe
 Type: One-handed
-Requires:
- 14 Strength
+Requires: 14 Strength
 
 Weight: 8
 
