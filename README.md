@@ -11,8 +11,8 @@ Equipped abilities:
 – Any opponent within 6-ft. that successfully hits the wearer suffers 1d4 points of piercing damage.
 
 Armor Class: 1 (-2 vs. slashing)
-Requires:
- 15 Strength
+
+Requires: 15 Strength
 
 Weight: 50
 
