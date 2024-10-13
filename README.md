@@ -61,12 +61,12 @@ Combat abilities:
 - Returns to the wielder's hand when thrown
 
 THAC0: +1
-- Damage: 1d6+2
-- Damage type (melee): Slashing
-- Damage type (thrown): Missile
-- Speed Factor: 2
-- Proficiency Type: Axe
-- Type: One-handed
+Damage: 1d6+2
+Damage type (melee): Slashing
+Damage type (thrown): Missile
+Speed Factor: 2
+Proficiency Type: Axe
+Type: One-handed
 
 Requires: 4 Strength
 
