@@ -153,6 +153,7 @@ This is a WEIDU mod thus currently is compatible with other mods.
 **VERSION HISTORY**
 
 v1.1 Undefined string error
+
 v1.0 Initial Release
 
 **FUTURE CHANGES**
